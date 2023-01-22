@@ -9,16 +9,16 @@ A place where you can you can put all your notes/question papers/books/assignmen
 5. Woohooo🎉🎉🎉, Now just sit back and Relax. Someone from team will review and merge your PR.
 
 
-Please note <ins> Permission denied- 403 </ins> will occur if you are trying to push changes without forking.
+Please note <ins>Permission denied- 403</ins> will occur if you are trying to push changes without forking.
 
 ## What is Forking?
 A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.<br />
 [How to Fork?](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 - Original-Repository
-<img src="https://github.com/Open-Source-Contributors-IU/Invertis-Archive-CSE/blob/main/Img/original-repo.png" width="800" height="200" />
+<img src="https://github.com/Open-Source-Contributors-IU/Invertis-Archive-CSE/blob/main/images/original-repo.png" width="800" height="200" />
 
 - Forked-Repository
-<img src="https://github.com/Open-Source-Contributors-IU/Invertis-Archive-CSE/blob/main/Img/forked-repo.png" width="800" height="200" />
+<img src="https://github.com/Open-Source-Contributors-IU/Invertis-Archive-CSE/blob/main/images/forked-repo.png" width="800" height="200" />
 
 
